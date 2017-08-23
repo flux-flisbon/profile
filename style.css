@@ -47,6 +47,10 @@ table img {
   padding-right: 25px;
 }
 
+td {
+  vertical-align: top;
+}
+
 .text-center {
   text-align: center;
 }
