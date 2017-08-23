@@ -37,7 +37,7 @@ a {
 
 a:hover {
   background-color: none;
-  color: red;
+  color: #859398;
 }
 
 .text-center {
@@ -68,7 +68,7 @@ a:hover {
 
 .list-inline:hover {
   background-color: none;
-  color: red;
+  color: #859398;
 }
 
 
