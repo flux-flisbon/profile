@@ -51,6 +51,10 @@ td {
   vertical-align: top;
 }
 
+.header-centered {
+  text-align: center;
+}
+
 .text-center {
   text-align: center;
 }
