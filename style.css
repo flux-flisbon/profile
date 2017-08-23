@@ -43,6 +43,10 @@ a:hover {
   color: #859398;
 }
 
+table img {
+  padding-right: 25px;
+}
+
 .text-center {
   text-align: center;
 }
