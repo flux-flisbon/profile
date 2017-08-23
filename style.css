@@ -1,21 +1,24 @@
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
-  color: black;
+  color: #283048;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
   font-weight: normal;
+  color: #859398;
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #283048;
 }
 
 body {
   font-family: 'Cardo', serif;
-  color: rgb(10, 10, 10); /* Chrome 10-25, Safari 5.1-6 */
+  color: #859398; /* Chrome 10-25, Safari 5.1-6 */
   background: -webkit-linear-gradient(left, #283048, #859398);
   background: -o-linear-gradient(left, #283048, #859398);
   background: linear-gradient(to right, #283048, #859398); /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -32,7 +35,7 @@ p {
 
 a {
   text-decoration: none;
-  color: rgb(10, 10, 10);
+  color: #283048
 }
 
 a:hover {
@@ -58,11 +61,13 @@ a:hover {
 .list-inline > li {
   display: inline-block;
   padding: 0px 100px;
+  color: #283048;
 }
 
 .list-inline {
   padding-left: 0px;
   text-align: center;
+  color: #283048;
   font-size: 25px;
 }
 
